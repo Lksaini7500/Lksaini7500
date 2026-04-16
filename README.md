@@ -2,8 +2,8 @@
 ### QA Automation Engineer (SDET) | Automation & Manual Testing Specialist
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=[YourGitHubUsername]&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/lokeshkumarsaini/" target="blank">
+  <img src="https://komarev.com/ghpvc/?username=lksaini7500&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/lokeshsaini7500/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="Lokesh Kumar Saini LinkedIn" />
   </a>
 </p>
