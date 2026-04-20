@@ -20,6 +20,30 @@
 
 ### 🛠 Tech Stack & Tools
 
+**Automation Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/TestNG-FF7F00?style=for-the-badge&logo=testng&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
+  <img src="https://img.shields.io/badge/POM-007ACC?style=for-the-badge&logo=test-dot-com&logoColor=white" />
+  <img src="https://img.shields.io/badge/XPath-0052CC?style=for-the-badge&logo=xml&logoColor=white" />
+</p>
+
+**API & Integration**
+<p align="left">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=swagger&logoColor=white" />
+</p>
+
+**CI/CD & DevOps**
+<p align="left">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
+</p>
+
 **Languages & Databases**
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -27,6 +51,19 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
+
+**Tools & Expertise**
+<p align="left">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
+
+---
+
+### 📋 Methodologies & Expertise
+* **Core Methodologies:** SDLC, STLC, Agile/Scrum
+* **Testing Lifecycle:** Test Planning, Test Case Design, Defect Life Cycle
+* **Testing Types:** Manual, Functional, Regression, Sanity, Smoke, Cross-Browser
 
 **Automation & Development Tools**
 <p align="left">
